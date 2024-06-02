@@ -1,9 +1,9 @@
 # Site settings
-title: Gungnir
-SEOTitle: Jekyll theme Gungnir
-description: Jekyll version of the blog theme Gungnir.
+title: Hangga Aji Sayekti
+SEOTitle: Hangga Aji Sayekti's Blog
+description: A passionate Software Engineer from Indonesia with experience since 2008. Has a bachelor's degree in Mathematics and loves Science and Computers. .
 keyword: "jekyll, theme, blog, blog theme"
-url: "https://jekyll-theme-gungnir.vercel.app"      # your host, for absolute URL
+url: "https://hangga.github.io/blog1"      # your host, for absolute URL
 baseurl: ""                                         # for example, '/blog' if your blog hosted on 'host/blog'
 avatar: "img/header-avatar.jpeg"                    # the avatar showing on the homepage
 
@@ -54,13 +54,13 @@ collections:
 # SNS settings
 sns:
   RSS: true
-  github_username: Renovamen
+  github_username: hangga
   weibo_username:
-  zhihu_username: chao-neng-gui-su
-  twitter_username: renovamen_zxh
-  facebook_username: renovamen.zou
-  linkedin_username: xiaohan-zou-55bba0160
-  email_address: renovamenzxh@gmail.com
+  # zhihu_username: chao-neng-gui-su
+  # twitter_username: renovamen_zxh
+  # facebook_username: renovamen.zou
+  linkedin_username: hanggaajisayekti
+  email_address: bazeniancode@gmail.com
 
 
 # Build settings
