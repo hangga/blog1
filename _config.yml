@@ -3,8 +3,8 @@ title: Hangga Aji Sayekti
 SEOTitle: Hangga Aji Sayekti's Blog
 description: A passionate Software Engineer from Indonesia with experience since 2008. Has a bachelor's degree in Mathematics and loves Science and Computers. .
 keyword: "jekyll, theme, blog, blog theme"
-url: "https://hangga.github.io/blog1"      # your host, for absolute URL
-baseurl: ""                                         # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://hangga.github.io"      # your host, for absolute URL
+baseurl: "blog1"                                         # for example, '/blog' if your blog hosted on 'host/blog'
 avatar: "img/header-avatar.jpeg"                    # the avatar showing on the homepage
 
 
