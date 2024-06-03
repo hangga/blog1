@@ -20,7 +20,7 @@ tags:
 
 Postingan ini hanyalah sekedar catatan agar mudah untuk diingat dan dilihat kembali jika lupa. Baiklah mari menuju TKP.
 
-1. Buat *Repository*nya dulu jika belum punya![repo-create](http://hangga.github.io/blog/wp-content/uploads/2016/01/repo-create.png).
+1. Buat *Repository*nya dulu jika belum punya![repo-create](http://hangga.github.io/blog1/wp-content/uploads/2016/01/repo-create.png).
 2. Masuk ke *local project directory,* via *terminal* tentunya.
 3. Inisialisasikan direktori tersebut sebagai **local repository**```
     $ git init<em>.</em>

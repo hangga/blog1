@@ -20,9 +20,9 @@ tags:
     - 'login delphi'
 ---
 
-[  ](http://hangga.github.io/blog/wp-content/uploads/2012/04/2012-04-05_105225.png)Jumpa lagi teman, sekedar sharing nih. Lagi2 berlatar belakang kasus yg saya alami sendiri.
+[  ](http://hangga.github.io/blog1/wp-content/uploads/2012/04/2012-04-05_105225.png)Jumpa lagi teman, sekedar sharing nih. Lagi2 berlatar belakang kasus yg saya alami sendiri.
 
-![](http://hangga.github.io/blog/wp-content/uploads/2012/04/2012-04-05_105225.png "2012-04-05_105225")
+![](http://hangga.github.io/blog1/wp-content/uploads/2012/04/2012-04-05_105225.png "2012-04-05_105225")
 
 Seorang klien meminta saya membuat aplikasi desktop. Ok tanpa pikir panjang sy langsung pilih Tool favorit saya, **Borland Delphi 7.**
 
@@ -166,4 +166,4 @@ end.
 
 <span style="line-height: 1.5;">Saya coba dan Alhamdulillah berhasil.</span>
 
-[![](http://hangga.github.io/blog/wp-content/uploads/2012/04/2012-04-05_113010-1024x545.png "2012-04-05_113010")](http://hangga.github.io/blog/wp-content/uploads/2012/04/2012-04-05_113010.png)
+[![](http://hangga.github.io/blog1/wp-content/uploads/2012/04/2012-04-05_113010-1024x545.png "2012-04-05_113010")](http://hangga.github.io/blog1/wp-content/uploads/2012/04/2012-04-05_113010.png)

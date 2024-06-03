@@ -22,7 +22,7 @@ tags:
     - html5
 ---
 
-![](http://hangga.github.io/blog/wp-content/uploads/2011/12/2011-12-22_112633-300x226.png "2011-12-22_112633")
+![](http://hangga.github.io/blog1/wp-content/uploads/2011/12/2011-12-22_112633-300x226.png "2011-12-22_112633")
 
 Di HTML 5 terdapat beberapa komponen baru salah satunya yang saya suka adalah *canvas.* Di canvas ini kita dapat melakukan *draw(*menggambar*).*
 

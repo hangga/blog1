@@ -25,7 +25,7 @@ tags:
 
 Beberapa waktu lalu saya membaca loker (baca=lowongan kerja) untuk posisi ***IT Programmer*** di *PT. KIMA* yang diposting oleh salah seorang member *linkedin*. Sekilas info loker tersebut sepertinya biasa saja, namun setelah membaca kualifikasinya, saya jadi tertantang untuk main tebak-tebakan, kira-kira berapa gaji ***IT Programmer*** disana, karena di loker tersebut tidak disebutkan. Nah ini dia lokernya.
 
-![](https://hangga.github.io/blog/wp-content/uploads/2021/08/1628383733592-700x693.jpg)
+![](https://hangga.github.io/blog1/wp-content/uploads/2021/08/1628383733592-700x693.jpg)
 
 Sebelumnya saya sempat ragu akan kebenaran isinya, takut kalo ternyata *hoax,* karena kalo dilihat dari kualifikasi yang dicantumkan sepertinya gimanaa gitu.😆✌️ Saya sebagai orang yang telah menjadi kuli IT sejak 2008 merasa tergelitik. Tapi disini saya akan fokus main tebak-tebakannya saja, karena kalo mau lihat kerancuan lainnya bakal panjang dan capek sendiri. Misalnya di poin ke -2, sejak kapan *JQuery,* *JSON* dan *Android* itu termasuk bahasa pemrograman? Ah, sudahlah.
 
@@ -76,7 +76,7 @@ Menurut ***indeed***, salary seorang *Full-Stack Web Developer* di Indonesia ada
 
 Ini belum yg di *glints* lho. Lebih fantastis lagi ntar. Nih contohnya.
 
-![](https://hangga.github.io/blog/wp-content/uploads/2021/08/Screen-Shot-2021-08-09-at-16.18.30-700x562.png)
+![](https://hangga.github.io/blog1/wp-content/uploads/2021/08/Screen-Shot-2021-08-09-at-16.18.30-700x562.png)
 
 - **Java Developer (+/- Rp. 8,576,163)**
 
@@ -86,7 +86,7 @@ Adapun salary seorang *Java Developer* di Indonesia menurut **indeed** adalah se
 
 Kalo di glints, banyak yang lebih fantastis.
 
-![](https://hangga.github.io/blog/wp-content/uploads/2021/08/Screen-Shot-2021-08-09-at-17.15.59-700x375.png)
+![](https://hangga.github.io/blog1/wp-content/uploads/2021/08/Screen-Shot-2021-08-09-at-17.15.59-700x375.png)
 
 - **Android Developer (+/- Rp. 7,250,784)**
 
@@ -96,7 +96,7 @@ Salary rata-rata seorang *Android Developer* di Indonesia menurut **indeed** ada
 
 Mari lihat juga di glints.
 
-- ![](https://hangga.github.io/blog/wp-content/uploads/2021/08/Screen-Shot-2021-08-09-at-17.15.03-700x192.png)**iOS Developer – Swift (+/- Rp. 7,614,659 – Rp.10,000,000)**
+- ![](https://hangga.github.io/blog1/wp-content/uploads/2021/08/Screen-Shot-2021-08-09-at-17.15.03-700x192.png)**iOS Developer – Swift (+/- Rp. 7,614,659 – Rp.10,000,000)**
 
 Masih di poin **ke 3**, disana disebutkan *iOS Swift*, sehingga asumsi saya setara dengan seorang *iOS Developer*. Salary seorang *iOS Developer* adalah tertinggi dari sekian diatas, yaitu **Rp. 10,000,000** per bulan menurut **neuvo**. Namun menurut **indeed** berbeda, yaitu **IDR 7,614,659** per bulan. Bisa cek sendiri disini 👉🏼 <https://id.neuvoo.com/gaji/?job=Ios+Developer> dan disini <https://id.indeed.com/career/ios-developer/salaries>.
 

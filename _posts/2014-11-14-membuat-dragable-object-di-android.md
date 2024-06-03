@@ -40,7 +40,7 @@ Banyak cara, tapi yg saya lakukan cukup sederhana. Intinya tinggal ng*ekstends* 
 
 1\. Buat kelas baru, tak kasih nama *Dragable* aja lah.
 
-![Menu_011](http://hangga.github.io/blog/wp-content/uploads/2015/01/Menu_011.png)![New Java Class _013](http://hangga.github.io/blog/wp-content/uploads/2015/01/New-Java-Class-_013.png)
+![Menu_011](http://hangga.github.io/blog1/wp-content/uploads/2015/01/Menu_011.png)![New Java Class _013](http://hangga.github.io/blog1/wp-content/uploads/2015/01/New-Java-Class-_013.png)
 
 2\. *Extends* *RelativeLayout*
 
@@ -202,7 +202,7 @@ public class Dragable extends RelativeLayout{
 
 Jika kelas Dragable sudah berhasil dibuat, biasanya akan muncul di pallete.
 
-![Selection_019--](http://hangga.github.io/blog/wp-content/uploads/2015/01/Selection_019-.png)
+![Selection_019--](http://hangga.github.io/blog1/wp-content/uploads/2015/01/Selection_019-.png)
 
 Contoh penggunaan di layoutnya
 

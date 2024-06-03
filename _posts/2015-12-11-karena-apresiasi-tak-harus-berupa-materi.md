@@ -19,7 +19,7 @@ tags:
 
 Memberi penghargaan atas prestasi anak sangatlah penting, selain dapat menambah semangat sang anak dalam belajar, juga sebagai salah satu bentuk **ekspresi cinta** kepada anak kita. Contohnya ketika anak kita telah berhasil menghafal beberapa surah atau ayat Al-Quran. Ini merupakan sebuah prestasi yg perlu di apresiasi. Adapaun bentuk apresiasi tersebut tidak harus berupa materi.
 
-[![Piagam-part-2-croped](http://hangga.github.io/blog/wp-content/uploads/2015/12/Piagam-part-2-croped-510x349.png)](http://hangga.github.io/blog/wp-content/uploads/2015/12/Piagam-part-2-croped.png)
+[![Piagam-part-2-croped](http://hangga.github.io/blog1/wp-content/uploads/2015/12/Piagam-part-2-croped-510x349.png)](http://hangga.github.io/blog1/wp-content/uploads/2015/12/Piagam-part-2-croped.png)
 
 Adapun kalau ada orang mengatakan “loh itu namanya mengajarkan ketidak ikhlsasan pada anak. Beribadah kok mengharap hadiah”.
 

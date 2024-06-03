@@ -21,7 +21,7 @@ tags:
     - rupiah
 ---
 
-[![](http://hangga.github.io/blog/wp-content/uploads/2011/12/Untitled.png "Untitled")](http://hangga.github.io/blog/wp-content/uploads/2011/12/Untitled.png)Di *Delphi* kita mengenal fungsi-fungsi untuk menampilkan format *string* sesuai yg kita inginkan.
+[![](http://hangga.github.io/blog1/wp-content/uploads/2011/12/Untitled.png "Untitled")](http://hangga.github.io/blog1/wp-content/uploads/2011/12/Untitled.png)Di *Delphi* kita mengenal fungsi-fungsi untuk menampilkan format *string* sesuai yg kita inginkan.
 
 Nah untuk menampilakan format mata uang Rupiah, ternyata kita bisa menggunakan berbagai macam cara. Diantaranya adalah sebagai berikut:
 
@@ -78,7 +78,7 @@ Nah untuk menampilakan format mata uang Rupiah, ternyata kita bisa menggunakan b
 
 Contoh penggunaan fungsi pada program
 
-[![](http://hangga.github.io/blog/wp-content/uploads/2011/12/2011-12-02_104945.png "2011-12-02_104945")](http://hangga.github.io/blog/wp-content/uploads/2011/12/2011-12-02_104945.png)
+[![](http://hangga.github.io/blog1/wp-content/uploads/2011/12/2011-12-02_104945.png "2011-12-02_104945")](http://hangga.github.io/blog1/wp-content/uploads/2011/12/2011-12-02_104945.png)
 
 ```
 

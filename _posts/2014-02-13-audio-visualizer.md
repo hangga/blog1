@@ -48,7 +48,7 @@ private class RecorderTask extends TimerTask{
 
 Berikut kode selengkapnya. Silahkan Anda bisa mengembangkannya sendiri.
 
-[![device-2014-02-13-034349](http://hangga.github.io/blog/wp-content/uploads/2014/02/device-2014-02-13-034349.png)](http://hangga.github.io/blog/?p=15)1. Layout xmlnya adalah seperti dibawah ini.
+[![device-2014-02-13-034349](http://hangga.github.io/blog1/wp-content/uploads/2014/02/device-2014-02-13-034349.png)](http://hangga.github.io/blog/?p=15)1. Layout xmlnya adalah seperti dibawah ini.
 
 ```
 <pre class="brush:xml"><RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"

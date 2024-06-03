@@ -25,11 +25,11 @@ Kalo udah begini saya jadi berubah sok filosofis, padahal untuk urusan minum kop
 
 > Oleh karena itu, *sruput*lah kopinya dan bahagialah.
 
-![](http://hangga.github.io/blog/wp-content/uploads/2018/01/index-700x700.jpeg)
+![](http://hangga.github.io/blog1/wp-content/uploads/2018/01/index-700x700.jpeg)
 
 Nah, kalo yang ini terus terang ceritanya berawal dari spontanitas saja, ngobrol dengan [sahabat saya (jejaka *ting-ting sing bagoes dewe sak kampung*, juga calon mantu idaman setiap emak-emak yang punya anak gadis)](https://bimalizer.deviantart.com/) yg kebetulan sesama *sruputers.* Kemudian [dia](https://bimalizer.deviantart.com/) sendiri juga yang merancang disainnya, dan akhirnya pada 20 Januari 2018 di *release*lah kaos ini.
 
-![](http://hangga.github.io/blog/wp-content/uploads/2018/01/P_20180118_061111-800-700x525.png)
+![](http://hangga.github.io/blog1/wp-content/uploads/2018/01/P_20180118_061111-800-700x525.png)
 
 Ketika postingan ini di *publish,* stock tinggal XL 1pcs dan M 4 pcs. Sedangkan besok *embuh* ndak tahu.
 

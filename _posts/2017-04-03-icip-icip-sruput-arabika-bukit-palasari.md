@@ -25,7 +25,7 @@ sambil *nyruput* secangkir kopi. Lebih enak lagi kali kopinya gratisan.
 
 Nah ini adalah untuk yang kedua kalinya saya dapet kopi gratisan dari mas Alvin bakule kopi dengan brandnya [kopirelo](http://kopirelocoffee.com/). Dulu yang pertama saya dapat 100gr Arabika Aceh Gayo gegara salah proses.
 
-![](http://hangga.github.io/blog/wp-content/uploads/2017/04/IMG_20170328_170631_HDR.jpg)Kali ini dapet lagi **Arabika Bukit Palasari**, Single Origin baru malahan dan disuruh ngreview katanya. Karena saya bukan ahli kopi, *yasudah* nikmati saja dan kebetulan juga belum pernah *ngicicipi* kopi ini.
+![](http://hangga.github.io/blog1/wp-content/uploads/2017/04/IMG_20170328_170631_HDR.jpg)Kali ini dapet lagi **Arabika Bukit Palasari**, Single Origin baru malahan dan disuruh ngreview katanya. Karena saya bukan ahli kopi, *yasudah* nikmati saja dan kebetulan juga belum pernah *ngicicipi* kopi ini.
 
 **Wanginya** memang ndak kalah sama kopi-kopi Sumatera, benar-benar wangi khas kopi arabica. Tidak terlalu pahit sebagaimana kopi Java Arabica pada umumnya. Mungkin 11-12 sama Preanger.
 

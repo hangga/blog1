@@ -23,7 +23,7 @@ Kali ini(Rabu, 12-03-14) saya kembali menjumpai kasus yg cukup menarik yaitu Cra
 
 Crash ini terjadi ketika *ViewPager* berada di dalam *ScrollView(hirizontal)* seperti ilustrasi dibawah ini.
 
-[![Untitled](http://hangga.github.io/blog/wp-content/uploads/2014/03/Untitled.png)](http://hangga.github.io/blog/wp-content/uploads/2014/03/Untitled.png)
+[![Untitled](http://hangga.github.io/blog1/wp-content/uploads/2014/03/Untitled.png)](http://hangga.github.io/blog1/wp-content/uploads/2014/03/Untitled.png)
 
 Dari sisi User, aksi *swipe* ke kanan dan ke kiri akan terasa seperti tersendat atau tidak mulus atau apalah istilahnya, yg jelas user bakal merasa tidak nyaman.
 

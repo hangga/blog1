@@ -24,14 +24,14 @@ tags:
 
 SILAT adalah.. Emm apa ya.. Semacam alat bantu hitung cepat hasil pilleg, pilbub dan semacamnya. Berbasis SMS Gateway.
 
-[![tulisan_silat600](http://hangga.github.io/blog/wp-content/uploads/2014/09/tulisan_silat600.png)](http://hangga.github.io/blog/wp-content/uploads/2014/09/tulisan_silat600.png)
+[![tulisan_silat600](http://hangga.github.io/blog1/wp-content/uploads/2014/09/tulisan_silat600.png)](http://hangga.github.io/blog1/wp-content/uploads/2014/09/tulisan_silat600.png)
 
-[![ilustrasi](http://hangga.github.io/blog/wp-content/uploads/2014/09/ilustrasi.png)](http://hangga.github.io/blog/wp-content/uploads/2014/09/ilustrasi.png)
+[![ilustrasi](http://hangga.github.io/blog1/wp-content/uploads/2014/09/ilustrasi.png)](http://hangga.github.io/blog1/wp-content/uploads/2014/09/ilustrasi.png)
 
-[![grafik](http://hangga.github.io/blog/wp-content/uploads/2014/09/grafik.png)](http://hangga.github.io/blog/wp-content/uploads/2014/09/grafik.png)
+[![grafik](http://hangga.github.io/blog1/wp-content/uploads/2014/09/grafik.png)](http://hangga.github.io/blog1/wp-content/uploads/2014/09/grafik.png)
 
-[![dpt](http://hangga.github.io/blog/wp-content/uploads/2014/09/dpt.png)](http://hangga.github.io/blog/wp-content/uploads/2014/09/dpt.png)
+[![dpt](http://hangga.github.io/blog1/wp-content/uploads/2014/09/dpt.png)](http://hangga.github.io/blog1/wp-content/uploads/2014/09/dpt.png)
 
-[![konek modem](http://hangga.github.io/blog/wp-content/uploads/2014/09/konek-modem.png)](http://hangga.github.io/blog/wp-content/uploads/2014/09/konek-modem.png)
+[![konek modem](http://hangga.github.io/blog1/wp-content/uploads/2014/09/konek-modem.png)](http://hangga.github.io/blog1/wp-content/uploads/2014/09/konek-modem.png)
 
-[ ](http://hangga.github.io/blog/wp-content/uploads/2014/09/ilustrasi.png)
+[ ](http://hangga.github.io/blog1/wp-content/uploads/2014/09/ilustrasi.png)

@@ -20,11 +20,11 @@ tags:
     - jquery
 ---
 
-*[![](http://hangga.github.io/blog/wp-content/uploads/2011/11/pic_031.jpg "pic_03")](http://hangga.github.io/blog/wp-content/uploads/2011/11/pic_031.jpg)Face detection* adalah sebuah algoritma untuk mendeteksi apakah di dalam sebuah gambar terdapat unsur-unsur wajah(mata, hidung, telinga dan mulut, jarak 2 mata, jarak antara mulut dan hidung dan lain2) atau tidak. Sedangkan *Face Recognition* atau pengenalan wajah adalah teknologi kelanjutanya, yaitu mencocokan hasil *face detection* dengan data yang tersimpan dalam database.
+*[![](http://hangga.github.io/blog1/wp-content/uploads/2011/11/pic_031.jpg "pic_03")](http://hangga.github.io/blog1/wp-content/uploads/2011/11/pic_031.jpg)Face detection* adalah sebuah algoritma untuk mendeteksi apakah di dalam sebuah gambar terdapat unsur-unsur wajah(mata, hidung, telinga dan mulut, jarak 2 mata, jarak antara mulut dan hidung dan lain2) atau tidak. Sedangkan *Face Recognition* atau pengenalan wajah adalah teknologi kelanjutanya, yaitu mencocokan hasil *face detection* dengan data yang tersimpan dalam database.
 
 Saat ini teknologi *face recognition* ini telah banyak dimanfaatkan dalam berbagai bidang misalnya dalam sistem presensi karyawan. Dengan teknologi ini, perusahaan khususnya yang memiliki banyak karyawan dapat meminimalisir terjadinya *titip presensi(*seperti teman2 kuliah saya dulu yang tukang bolos*).*
 
-[![](http://hangga.github.io/blog/wp-content/uploads/2011/11/car_photo_221259_7-150x150.jpg "car_photo_221259_7")](http://hangga.github.io/blog/wp-content/uploads/2011/11/car_photo_221259_7.jpg)Algoritma ini telah banyak di implementasikan di berbagai bahasa pemrograman. Nah tahukah teman2 bahwa ada *developer* baik hati yang telah membuat *plugin face detection jquery* dan gratis untuk di [download](https://github.com/jaysalvat/jquery.facedetection/zipball/release). Sehingga kita dapat membuat aplikasi *face detection* dengan mudah.
+[![](http://hangga.github.io/blog1/wp-content/uploads/2011/11/car_photo_221259_7-150x150.jpg "car_photo_221259_7")](http://hangga.github.io/blog1/wp-content/uploads/2011/11/car_photo_221259_7.jpg)Algoritma ini telah banyak di implementasikan di berbagai bahasa pemrograman. Nah tahukah teman2 bahwa ada *developer* baik hati yang telah membuat *plugin face detection jquery* dan gratis untuk di [download](https://github.com/jaysalvat/jquery.facedetection/zipball/release). Sehingga kita dapat membuat aplikasi *face detection* dengan mudah.
 
 Oke teman2 langsung ke TKP saja..
 
@@ -34,15 +34,15 @@ Langkah2-nya adalah sebagai berikut :
 
 2\. *Extract* filenya, hasil *extract-*annya sebagai berikut :
 
-[![](http://hangga.github.io/blog/wp-content/uploads/2011/11/2011-11-08_1233411.png "2011-11-08_123341")](http://hangga.github.io/blog/wp-content/uploads/2011/11/2011-11-08_1233411.png)
+[![](http://hangga.github.io/blog1/wp-content/uploads/2011/11/2011-11-08_1233411.png "2011-11-08_123341")](http://hangga.github.io/blog1/wp-content/uploads/2011/11/2011-11-08_1233411.png)
 
 buka folder <span style="color: #800000;">js, <span style="color: #000000;">isinya adalah sbb: </span></span>
 
-[![](http://hangga.github.io/blog/wp-content/uploads/2011/11/2011-11-08_125334.png "2011-11-08_125334")](http://hangga.github.io/blog/wp-content/uploads/2011/11/2011-11-08_125334.png)
+[![](http://hangga.github.io/blog1/wp-content/uploads/2011/11/2011-11-08_125334.png "2011-11-08_125334")](http://hangga.github.io/blog1/wp-content/uploads/2011/11/2011-11-08_125334.png)
 
 kemudian kalau folder facedetection dibuka, isinya sbb :
 
-[![](http://hangga.github.io/blog/wp-content/uploads/2011/11/2011-11-08_1253441.png "2011-11-08_125344")](http://hangga.github.io/blog/wp-content/uploads/2011/11/2011-11-08_1253441.png)
+[![](http://hangga.github.io/blog1/wp-content/uploads/2011/11/2011-11-08_1253441.png "2011-11-08_125344")](http://hangga.github.io/blog1/wp-content/uploads/2011/11/2011-11-08_1253441.png)
 
 3\. Ambil folder js dan letakkan pada direktori web Anda. Terserah dimana, bebas.
 

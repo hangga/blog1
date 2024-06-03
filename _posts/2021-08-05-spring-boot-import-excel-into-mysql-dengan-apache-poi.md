@@ -144,7 +144,7 @@ public class JamaahEntity {
 
 Sebelum membuat helper, mari kita perhatikan *file* *Excel*nya. *Cell* yang akan kita ambil hanya kolom A, B, C dan E, sedangkan kolom D tidak. Sehingga boleh dibilang *column* *index* ke 0, 1, 2 dan 4.
 
-![](https://hangga.github.io/blog/wp-content/uploads/2021/08/data-excel-700x294.png)
+![](https://hangga.github.io/blog1/wp-content/uploads/2021/08/data-excel-700x294.png)
 
 Kemudian saya membuat kelas ***JamaahExcelHelper.java*** yang didalamnya akan kita buat *static method* yaitu ***excelToJamaahEntitys()*** untuk membaca sekaligus menggenerate *List&lt;JamaahEntity&gt;* sehingga nanti pada kelas *JamaahSerice* tinggal dipanggil.
 
@@ -263,6 +263,6 @@ public ResponseEntity uploadExcelFile(@RequestParam("file") MultipartFile file) 
 
 Siap di test. Silahkan pake Rest Client yang anda suka misal PostMan atau Insomnia. Saya pake Insomnia. Hehe..
 
-![](https://hangga.github.io/blog/wp-content/uploads/2021/08/Screen-Shot-2021-08-05-at-16.21.13-700x341.png)
+![](https://hangga.github.io/blog1/wp-content/uploads/2021/08/Screen-Shot-2021-08-05-at-16.21.13-700x341.png)
 
 Mau lihat *full Source Code* boleh unduh [disini](https://github.com/hangga/apijamaah). Selamat mencoba, terimakasih.

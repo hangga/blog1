@@ -24,5 +24,5 @@ Cara pake nya mudah tinggal klik copy paste, selesai. Tidak perlu membolak-balik
 
 Yang tertarik silahkan download, gratis.
 
-[![](http://hangga.github.io/blog/wp-content/uploads/2012/04/2012-04-11_131022.png "2012-04-11_131022")](http://hangga.github.io/blog/wp-content/uploads/2012/04/2012-04-11_131022.png)  
-[![](http://hangga.github.io/blog/wp-content/uploads/2012/04/download_button_0033.png)](http://www.4shared.com/file/mmmzRixa/MasehiToHijri.html)
+[![](http://hangga.github.io/blog1/wp-content/uploads/2012/04/2012-04-11_131022.png "2012-04-11_131022")](http://hangga.github.io/blog1/wp-content/uploads/2012/04/2012-04-11_131022.png)  
+[![](http://hangga.github.io/blog1/wp-content/uploads/2012/04/download_button_0033.png)](http://www.4shared.com/file/mmmzRixa/MasehiToHijri.html)

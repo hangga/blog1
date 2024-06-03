@@ -25,7 +25,7 @@ pip install nama_paket
 
 Tapi jika kalian lakukan ini di Arch Linux, nanti pasti akan muncul error seperti ini:
 
-![](https://hangga.github.io/blog/wp-content/uploads/2024/01/must-using-pacman.png)
+![](https://hangga.github.io/blog1/wp-content/uploads/2024/01/must-using-pacman.png)
 
 Disini awalnya saya mencoba menjalankan file Python yang membutuhkan modul bernama **requests**. Lalu saya coba install pake pip dan muncul error tersebut.
 

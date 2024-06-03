@@ -26,8 +26,8 @@ Karena akhir-akhir ini Si jagoan kecil Sultan Muhammad Fatih sedang *demen bange
 
 Ini adalah pesawat tempur *Su Flanker* dan *Zero Fighter* tapi yg ini terbuat dari kardus bekas. ha3x. keren kan… 🙂
 
-![IMG-20150329-WA0013](http://hangga.github.io/blog/wp-content/uploads/2015/03/IMG-20150329-WA0013-1024x768.jpg)
+![IMG-20150329-WA0013](http://hangga.github.io/blog1/wp-content/uploads/2015/03/IMG-20150329-WA0013-1024x768.jpg)
 
-![IMG-20150329-WA0011](http://hangga.github.io/blog/wp-content/uploads/2015/03/IMG-20150329-WA0011-1024x768.jpg)
+![IMG-20150329-WA0011](http://hangga.github.io/blog1/wp-content/uploads/2015/03/IMG-20150329-WA0011-1024x768.jpg)
 
-![IMG-20150329-WA0006](http://hangga.github.io/blog/wp-content/uploads/2015/03/IMG-20150329-WA0006-1024x768.jpg)
+![IMG-20150329-WA0006](http://hangga.github.io/blog1/wp-content/uploads/2015/03/IMG-20150329-WA0006-1024x768.jpg)

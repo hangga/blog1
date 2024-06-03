@@ -49,13 +49,13 @@ Kemudian *edit* pake *nano*, seperti ini.
 sudo nano <span style="color: #008000;">/etc/udev/rules.d/51-android.rules. </span>
 ```
 
-![Screenshot-Terminal](http://hangga.github.io/blog/wp-content/uploads/2014/09/Screenshot-Terminal.png)
+![Screenshot-Terminal](http://hangga.github.io/blog1/wp-content/uploads/2014/09/Screenshot-Terminal.png)
 
-![Screenshot-Terminal-1](http://hangga.github.io/blog/wp-content/uploads/2014/09/Screenshot-Terminal-1.png)
+![Screenshot-Terminal-1](http://hangga.github.io/blog1/wp-content/uploads/2014/09/Screenshot-Terminal-1.png)
 
 Sedangkan *USB Vendor ID* dapat kita lihat dengan memanggil *lsusb*.
 
-![Screenshot-Terminal-dab](http://hangga.github.io/blog/wp-content/uploads/2014/09/Screenshot-Terminal-dab.png)
+![Screenshot-Terminal-dab](http://hangga.github.io/blog1/wp-content/uploads/2014/09/Screenshot-Terminal-dab.png)
 
 Setelah itu, *restart adb* nya.
 

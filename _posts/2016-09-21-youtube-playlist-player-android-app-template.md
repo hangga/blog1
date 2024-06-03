@@ -51,6 +51,6 @@ Youtube video player template is a ready-to-use Youtube video player source code
 
 ![](https://www.codester.com/static/uploads/items/2001/preview/3.jpg)
 
-![4-1](http://hangga.github.io/blog/wp-content/uploads/2016/09/4-1-700x442.jpg)
+![4-1](http://hangga.github.io/blog1/wp-content/uploads/2016/09/4-1-700x442.jpg)
 
 \[dl target=”\_blank” url=”https://www.codester.com/items/2001/youtube-playlist-player-android-app-template?ref=bazeniancode” title=”Download” desc=”on codester.com”\]

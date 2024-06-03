@@ -27,7 +27,7 @@ Ini adalah *issue* yg terjadi pada *google sign in* dan belum di *solve* oleh *m
 2. Saat muncul dialog pilih akun, user memilih opsi *use another account*
 3. Pilih *create new google account.*
 
-<figure aria-describedby="caption-attachment-3827" class="wp-caption aligncenter" id="attachment_3827" style="width: 650px">![](http://hangga.github.io/blog/wp-content/uploads/2018/07/ca889f5f6fe999a5904f02579edfe4c60dbc18bc-700x580.png)<figcaption class="wp-caption-text" id="caption-attachment-3827">sumber: https://meta.discourse.org</figcaption></figure>## Issue
+<figure aria-describedby="caption-attachment-3827" class="wp-caption aligncenter" id="attachment_3827" style="width: 650px">![](http://hangga.github.io/blog1/wp-content/uploads/2018/07/ca889f5f6fe999a5904f02579edfe4c60dbc18bc-700x580.png)<figcaption class="wp-caption-text" id="caption-attachment-3827">sumber: https://meta.discourse.org</figcaption></figure>## Issue
 
 Nah, yang terjadi adalah tidak didapatkannya *response* *data* pada *onActivityResult(),* sehingga user mengalami *stuck* pada halaman login.
 

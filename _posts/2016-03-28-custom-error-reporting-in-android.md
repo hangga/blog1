@@ -143,8 +143,8 @@ Hal terpenting yang harus dilakukan dalam pengembangan *mobile apps* ketika mema
         }
     ```
     
-    ![device-2016-03-29-061022](http://hangga.github.io/blog/wp-content/uploads/2016/03/device-2016-03-29-061022.png)
+    ![device-2016-03-29-061022](http://hangga.github.io/blog1/wp-content/uploads/2016/03/device-2016-03-29-061022.png)
 
-![device-2016-03-29-062131](http://hangga.github.io/blog/wp-content/uploads/2016/03/device-2016-03-29-062131.png)
+![device-2016-03-29-062131](http://hangga.github.io/blog1/wp-content/uploads/2016/03/device-2016-03-29-062131.png)
 
 Tinggal *copy paste*, lalu kirim ke *developer*.

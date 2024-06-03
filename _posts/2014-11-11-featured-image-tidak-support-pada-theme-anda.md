@@ -30,7 +30,7 @@ Anda perlu menambahkan *script* di bawah ini ke dalam *functions.php* pada *them
 
 Buka Menu ***Apperance*** -&gt; ***Editor*** -&gt; *functions.php*
 
-![Screenshot-1](http://hangga.github.io/blog/wp-content/uploads/2014/11/Screenshot-1.png)
+![Screenshot-1](http://hangga.github.io/blog1/wp-content/uploads/2014/11/Screenshot-1.png)
 
 Lalu tambahkan script diatas.  
 Selesai.

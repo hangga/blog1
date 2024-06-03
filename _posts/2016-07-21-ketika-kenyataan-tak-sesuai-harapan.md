@@ -17,8 +17,8 @@ tags:
 
 Kenyataan yg tak sesuai harapan, adalah ketika berharap dapat *doorprize* berisi mobil mainan atau mungkin robot *transformer,* tetapi setelah dibuka ternyata isinya panci.
 
-![IMG-20160711-WA0004](http://hangga.github.io/blog/wp-content/uploads/2016/07/IMG-20160711-WA0004-510x383.jpg)
+![IMG-20160711-WA0004](http://hangga.github.io/blog1/wp-content/uploads/2016/07/IMG-20160711-WA0004-510x383.jpg)
 
 Yasudah, tetap disyukuri *Alhamdulillaah* kebahagiaan buat simbok dan sedikit kekecewaan buat anak lanang.
 
-[![IMG-20160711-WA0005](http://hangga.github.io/blog/wp-content/uploads/2016/07/IMG-20160711-WA0005-510x680.jpg)](http://hangga.github.io/blog/wp-content/uploads/2016/07/IMG-20160711-WA0005.jpg)
+[![IMG-20160711-WA0005](http://hangga.github.io/blog1/wp-content/uploads/2016/07/IMG-20160711-WA0005-510x680.jpg)](http://hangga.github.io/blog1/wp-content/uploads/2016/07/IMG-20160711-WA0005.jpg)

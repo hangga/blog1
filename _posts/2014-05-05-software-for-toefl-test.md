@@ -25,12 +25,12 @@ tags:
 
 **Penampakan Bukunya.**
 
-[![Cover TOEFL 3D](http://hangga.github.io/blog/wp-content/uploads/2014/05/Cover-TOEFL-3D.png)  ](http://hangga.github.io/blog/wp-content/uploads/2014/05/Cover-TOEFL-3D.png)
+[![Cover TOEFL 3D](http://hangga.github.io/blog1/wp-content/uploads/2014/05/Cover-TOEFL-3D.png)  ](http://hangga.github.io/blog1/wp-content/uploads/2014/05/Cover-TOEFL-3D.png)
 
 **Penampakan *Software*nya**
 
-[![2014-05-04_225213](http://hangga.github.io/blog/wp-content/uploads/2014/05/2014-05-04_225213-1024x545.png)](http://hangga.github.io/blog/wp-content/uploads/2014/05/2014-05-04_225213.png)
+[![2014-05-04_225213](http://hangga.github.io/blog1/wp-content/uploads/2014/05/2014-05-04_225213-1024x545.png)](http://hangga.github.io/blog1/wp-content/uploads/2014/05/2014-05-04_225213.png)
 
-[![2014-05-04_225252](http://hangga.github.io/blog/wp-content/uploads/2014/05/2014-05-04_225252-1024x545.png)](http://hangga.github.io/blog/wp-content/uploads/2014/05/2014-05-04_225252.png)
+[![2014-05-04_225252](http://hangga.github.io/blog1/wp-content/uploads/2014/05/2014-05-04_225252-1024x545.png)](http://hangga.github.io/blog1/wp-content/uploads/2014/05/2014-05-04_225252.png)
 
-[![2014-05-04_225306](http://hangga.github.io/blog/wp-content/uploads/2014/05/2014-05-04_225306-1024x545.png)](http://hangga.github.io/blog/wp-content/uploads/2014/05/2014-05-04_225306.png)
+[![2014-05-04_225306](http://hangga.github.io/blog1/wp-content/uploads/2014/05/2014-05-04_225306-1024x545.png)](http://hangga.github.io/blog1/wp-content/uploads/2014/05/2014-05-04_225306.png)

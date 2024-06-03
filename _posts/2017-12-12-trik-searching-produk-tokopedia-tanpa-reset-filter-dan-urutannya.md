@@ -22,8 +22,8 @@ Berikut *step reproduce* problemnya:
 
 1. Ketik kata kunci pada **field pencarian**, misalnya saya mencari dengan kata kunci ***niqab yaman***.
 2. Urutkan dari yang **termurah**.
-3. Filter hasil pencarian dengan rating **bintang 5**, hasilnya seperti berikut.![](http://hangga.github.io/blog/wp-content/uploads/2017/12/niqab-yaman-urut-700x394.png)
-4. Lakukan pencarian lagi dengan kata kunci lain, misal **niqab mesir**. Hasilnya seperti berikut ![](http://hangga.github.io/blog/wp-content/uploads/2017/12/niqab-mesir-reset-urut-filter-700x394.png)
+3. Filter hasil pencarian dengan rating **bintang 5**, hasilnya seperti berikut.![](http://hangga.github.io/blog1/wp-content/uploads/2017/12/niqab-yaman-urut-700x394.png)
+4. Lakukan pencarian lagi dengan kata kunci lain, misal **niqab mesir**. Hasilnya seperti berikut ![](http://hangga.github.io/blog1/wp-content/uploads/2017/12/niqab-mesir-reset-urut-filter-700x394.png)
 5. Nah perhatikan yang terjadi adalah **urutan dan filter ter-reset seperti kondisi *default***. Nah inilah yang menurut saya kurang nyaman.
 
 Namun hal ini bisa saya akali. Caranya adalah sebagai berikut.
@@ -66,6 +66,6 @@ https://www.tokopedia.com/search?st=product&amp;q=<span style="color: #0000ff;">
 
 https://www.tokopedia.com/search?st=product&amp;q=<span style="color: #0000ff;">**kopiah**</span>&amp;ob=3&amp;rt=5
 
-![](http://hangga.github.io/blog/wp-content/uploads/2017/12/searching-tokopedia-edited-700x220.png)
+![](http://hangga.github.io/blog1/wp-content/uploads/2017/12/searching-tokopedia-edited-700x220.png)
 
 Cukup sekian semoga bermanfaat.

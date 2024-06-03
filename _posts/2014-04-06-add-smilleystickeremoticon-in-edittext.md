@@ -26,7 +26,7 @@ Jumpa lagi kawan. Kasus menarik lagi nih. Yaitu menambahkan *Emoticon* di dalam 
 
 Trik yg saya gunakan kali ini adalah dengan menggunakan ***Spannable String.*** Apa itu Spannable String silahkan baca sendiri disini [SpannableString](http://developer.android.com/reference/android/text/SpannableString.html).
 
-[![device-2014-04-06-132659](http://hangga.github.io/blog/wp-content/uploads/2014/04/device-2014-04-06-132659.png)](http://hangga.github.io/blog/wp-content/uploads/2014/04/device-2014-04-06-132659.png)[![device-2014-04-06-132602](http://hangga.github.io/blog/wp-content/uploads/2014/04/device-2014-04-06-132602.png)](http://hangga.github.io/blog/wp-content/uploads/2014/04/device-2014-04-06-132602.png)
+[![device-2014-04-06-132659](http://hangga.github.io/blog1/wp-content/uploads/2014/04/device-2014-04-06-132659.png)](http://hangga.github.io/blog1/wp-content/uploads/2014/04/device-2014-04-06-132659.png)[![device-2014-04-06-132602](http://hangga.github.io/blog1/wp-content/uploads/2014/04/device-2014-04-06-132602.png)](http://hangga.github.io/blog1/wp-content/uploads/2014/04/device-2014-04-06-132602.png)
 
 **Go TKP…**
 
@@ -292,4 +292,4 @@ textPost.addTextChangedListener(new TextWatcher() {
 		});
 ```
 
-\[dl url=”http://hangga.github.io/blog/wp-content/uploads/2014/04/Emot.tar.gz” title=”Download Source Lengkap” desc=”Tolles Archiv”\]
+\[dl url=”http://hangga.github.io/blog1/wp-content/uploads/2014/04/Emot.tar.gz” title=”Download Source Lengkap” desc=”Tolles Archiv”\]

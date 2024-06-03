@@ -52,7 +52,7 @@ Hitung menggunakan formula/rumus jarak 2 titik.
 
 Jika *UPPER\_LIP\_BOTTOM* dan *LOWER\_LIP\_TOP* memiliki 9 titik, maka kita asumsikan titik tengahnya ada di indek ke 4, sehingga, koordinat (x, y) yg diambil adalah index ke 4.
 
-![](https://hangga.github.io/blog/wp-content/uploads/2021/10/Screen-Shot-2021-10-14-at-15.39.29-700x354.png)
+![](https://hangga.github.io/blog1/wp-content/uploads/2021/10/Screen-Shot-2021-10-14-at-15.39.29-700x354.png)
 
 ```
 float x1 = upperLipBottomContour.get(4).x;

@@ -17,18 +17,18 @@ tags:
     - 'simulasi un'
 ---
 
-![tabayyunnews](http://hangga.github.io/blog/wp-content/uploads/2015/08/tabayyunnews-510x252.png)
+![tabayyunnews](http://hangga.github.io/blog1/wp-content/uploads/2015/08/tabayyunnews-510x252.png)
 
-![menu-,apel](http://hangga.github.io/blog/wp-content/uploads/2015/08/menu-apel1-510x252.png)
+![menu-,apel](http://hangga.github.io/blog1/wp-content/uploads/2015/08/menu-apel1-510x252.png)
 
-![mulai-soal](http://hangga.github.io/blog/wp-content/uploads/2015/08/mulai-soal-510x252.png)
+![mulai-soal](http://hangga.github.io/blog1/wp-content/uploads/2015/08/mulai-soal-510x252.png)
 
-![halaman-soal-2](http://hangga.github.io/blog/wp-content/uploads/2015/08/halaman-soal-2-510x252.png)
+![halaman-soal-2](http://hangga.github.io/blog1/wp-content/uploads/2015/08/halaman-soal-2-510x252.png)
 
-![halaman-hasil](http://hangga.github.io/blog/wp-content/uploads/2015/08/halaman-hasil-510x252.png)
+![halaman-hasil](http://hangga.github.io/blog1/wp-content/uploads/2015/08/halaman-hasil-510x252.png)
 
-![pembahasan-2](http://hangga.github.io/blog/wp-content/uploads/2015/08/pembahasan-2-510x252.png)
+![pembahasan-2](http://hangga.github.io/blog1/wp-content/uploads/2015/08/pembahasan-2-510x252.png)
 
-![pembahasan-1](http://hangga.github.io/blog/wp-content/uploads/2015/08/pembahasan-1-510x252.png)
+![pembahasan-1](http://hangga.github.io/blog1/wp-content/uploads/2015/08/pembahasan-1-510x252.png)
 
-[![playstore](http://hangga.github.io/blog/wp-content/uploads/2014/02/playstore-300x98.png)](https://play.google.com/store/apps/details?id=com.hangga.smp)
+[![playstore](http://hangga.github.io/blog1/wp-content/uploads/2014/02/playstore-300x98.png)](https://play.google.com/store/apps/details?id=com.hangga.smp)

@@ -18,7 +18,7 @@ tags:
     - 'error vclSmp70.bpl'
 ---
 
-[![2014-02-26_045907](http://hangga.github.io/blog/wp-content/uploads/2014/02/2014-02-26_045907.png)](http://hangga.github.io/blog/wp-content/uploads/2014/02/2014-02-26_045907.png)
+[![2014-02-26_045907](http://hangga.github.io/blog1/wp-content/uploads/2014/02/2014-02-26_045907.png)](http://hangga.github.io/blog1/wp-content/uploads/2014/02/2014-02-26_045907.png)
 
 Ini adalah kasus yg saya temui beberapa waktu lalu. *Error* missing *VclSmp.bpl* ketika aplikasi dijalankan di komputer klien. Padahal ketika di *run* lewat IDE, tidak ada masalah.
 
@@ -30,9 +30,9 @@ Sebenarnya secara default, Delphi sudah menyetel konfigurasi agar semua *runtime
 
 Silahkan menuju *IDE Delphi,* lalu buka menu ***Project*** -&gt; ***Option..***
 
-[![2014-02-25_162633](http://hangga.github.io/blog/wp-content/uploads/2014/02/2014-02-25_162633.png)](http://hangga.github.io/blog/wp-content/uploads/2014/02/2014-02-25_162633.png)
+[![2014-02-25_162633](http://hangga.github.io/blog1/wp-content/uploads/2014/02/2014-02-25_162633.png)](http://hangga.github.io/blog1/wp-content/uploads/2014/02/2014-02-25_162633.png)
 
-[![2014-02-25_162235](http://hangga.github.io/blog/wp-content/uploads/2014/02/2014-02-25_162235.png)](http://hangga.github.io/blog/wp-content/uploads/2014/02/2014-02-25_162235.png)
+[![2014-02-25_162235](http://hangga.github.io/blog1/wp-content/uploads/2014/02/2014-02-25_162235.png)](http://hangga.github.io/blog1/wp-content/uploads/2014/02/2014-02-25_162235.png)
 
 Kemudian anda bisa pilih setelan pada checkbox Build with runtime packages. Ternyata sepele bukan?
 

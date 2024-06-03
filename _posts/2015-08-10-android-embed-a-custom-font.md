@@ -24,11 +24,11 @@ Ada banyak cara jika kita mau berusaha. Nah, berikut ini hanyalah salah satu dar
 
 1\. Siapkan *font* yg kita miliki.
 
-![Screenshot-1](http://hangga.github.io/blog/wp-content/uploads/2015/08/Screenshot-1.png)
+![Screenshot-1](http://hangga.github.io/blog1/wp-content/uploads/2015/08/Screenshot-1.png)
 
 2\. Copy ke dalam resource direktori */raw*
 
-[![Screenshot](http://hangga.github.io/blog/wp-content/uploads/2015/08/Screenshot-150x150.png)](http://hangga.github.io/blog/wp-content/uploads/2015/08/Screenshot.png)
+[![Screenshot](http://hangga.github.io/blog1/wp-content/uploads/2015/08/Screenshot-150x150.png)](http://hangga.github.io/blog1/wp-content/uploads/2015/08/Screenshot.png)
 
 3\. Buat sebuah kelas turunan dari *TextView*. Misal kelas ini saya beri nama ***RabbitTextView.***
 
@@ -77,6 +77,6 @@ public class RabbitTextView extends TextView {
 
 Hasilnya
 
-![menu-apel](http://hangga.github.io/blog/wp-content/uploads/2015/08/menu-apel.png)
+![menu-apel](http://hangga.github.io/blog1/wp-content/uploads/2015/08/menu-apel.png)
 
 Selamat mencoba…

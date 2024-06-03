@@ -19,7 +19,7 @@ tags:
     - 'Membuat Captcha dengan font sendiri.'
 ---
 
-[![](http://hangga.github.io/blog/wp-content/uploads/2012/03/Untitled-1.jpg "Untitled-1")](http://hangga.github.io/blog/wp-content/uploads/2012/03/Untitled-1.jpg)Teman2 tahu *Captcha* kan.. yup gambar yang di create dari sebuah teks secara random yang bertujuan untuk melindungi form php kita dari aksi *flooding.* Di php kita dapat membuat teks menjadi gambar dengan fungsi
+[![](http://hangga.github.io/blog1/wp-content/uploads/2012/03/Untitled-1.jpg "Untitled-1")](http://hangga.github.io/blog1/wp-content/uploads/2012/03/Untitled-1.jpg)Teman2 tahu *Captcha* kan.. yup gambar yang di create dari sebuah teks secara random yang bertujuan untuk melindungi form php kita dari aksi *flooding.* Di php kita dapat membuat teks menjadi gambar dengan fungsi
 
 ```
 imagestring( resource $image , int $font , int $x, int $y, string $string, int $color);
@@ -43,4 +43,4 @@ $font = imageloadfont('./fontku.gdf');
 
 Akhirnya *captcha*ku jadi juga
 
-[![](http://hangga.github.io/blog/wp-content/uploads/2012/03/2012-03-21_135727.png "2012-03-21_135727")](http://hangga.github.io/blog/wp-content/uploads/2012/03/2012-03-21_135727.png)
+[![](http://hangga.github.io/blog1/wp-content/uploads/2012/03/2012-03-21_135727.png "2012-03-21_135727")](http://hangga.github.io/blog1/wp-content/uploads/2012/03/2012-03-21_135727.png)

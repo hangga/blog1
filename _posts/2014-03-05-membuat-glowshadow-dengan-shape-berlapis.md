@@ -22,11 +22,11 @@ tags:
     - 'source code android'
 ---
 
-[![device-2014-03-05-020355](http://hangga.github.io/blog/wp-content/uploads/2014/03/device-2014-03-05-020355.png)![device-2014-03-05-020217](http://hangga.github.io/blog/wp-content/uploads/2014/03/device-2014-03-05-020217.png)](http://hangga.github.io/blog/wp-content/uploads/2014/03/device-2014-03-05-020217.png)
+[![device-2014-03-05-020355](http://hangga.github.io/blog1/wp-content/uploads/2014/03/device-2014-03-05-020355.png)![device-2014-03-05-020217](http://hangga.github.io/blog1/wp-content/uploads/2014/03/device-2014-03-05-020217.png)](http://hangga.github.io/blog1/wp-content/uploads/2014/03/device-2014-03-05-020217.png)
 
 *Glow* maupun *shadow* pada *layout* dapat dibuat tanpa memerlukan *image.* Yaitu diakali dengan menggunakan *shape* bertumpuk. Pada kasus ini saya menggunakan 6 lapis shape. Kemudian tingkat kita atur nilai prosentase *alpha* pada warna masing-masing shape sedemikian rupa sehingga seolah-olah warna semakin pudar.
 
-[![bands](http://hangga.github.io/blog/wp-content/uploads/2014/03/bands.jpg)](http://hangga.github.io/blog/wp-content/uploads/2014/03/bands.jpg)
+[![bands](http://hangga.github.io/blog1/wp-content/uploads/2014/03/bands.jpg)](http://hangga.github.io/blog1/wp-content/uploads/2014/03/bands.jpg)
 
 TKP
 

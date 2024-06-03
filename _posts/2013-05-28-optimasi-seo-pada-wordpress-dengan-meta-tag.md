@@ -22,7 +22,7 @@ tags:
     - 'wordpress SEO'
 ---
 
-[![12925_514616348568130_1984462092_n](http://hangga.github.io/blog/wp-content/uploads/2013/05/12925_514616348568130_1984462092_n.jpg)](http://hangga.github.io/blog/wp-content/uploads/2013/05/12925_514616348568130_1984462092_n.jpg)Salah satu teknik Optimasi *SEO* pada *website* kita adalah dengan memanfaatkan *meta tag*.
+[![12925_514616348568130_1984462092_n](http://hangga.github.io/blog1/wp-content/uploads/2013/05/12925_514616348568130_1984462092_n.jpg)](http://hangga.github.io/blog1/wp-content/uploads/2013/05/12925_514616348568130_1984462092_n.jpg)Salah satu teknik Optimasi *SEO* pada *website* kita adalah dengan memanfaatkan *meta tag*.
 
 ## Apa itu ***meta tag?***
 

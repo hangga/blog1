@@ -17,10 +17,10 @@ tags:
     - 'simulasi un sma ips'
 ---
 
-![2-pilih-mapel](http://hangga.github.io/blog/wp-content/uploads/2015/08/2-pilih-mapel1-510x319.png)
+![2-pilih-mapel](http://hangga.github.io/blog1/wp-content/uploads/2015/08/2-pilih-mapel1-510x319.png)
 
-![3-mulai](http://hangga.github.io/blog/wp-content/uploads/2015/08/3-mulai1-510x319.png)
+![3-mulai](http://hangga.github.io/blog1/wp-content/uploads/2015/08/3-mulai1-510x319.png)
 
-![4-soal](http://hangga.github.io/blog/wp-content/uploads/2015/08/4-soal1-510x319.png)
+![4-soal](http://hangga.github.io/blog1/wp-content/uploads/2015/08/4-soal1-510x319.png)
 
-[![playstore](http://hangga.github.io/blog/wp-content/uploads/2014/02/playstore-300x98.png)](https://play.google.com/store/apps/details?id=com.hangga.smaips)
+[![playstore](http://hangga.github.io/blog1/wp-content/uploads/2014/02/playstore-300x98.png)](https://play.google.com/store/apps/details?id=com.hangga.smaips)

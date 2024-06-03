@@ -24,13 +24,13 @@ tags:
 
 Sebenarnya game ini adalah versi internasional dari game saya sebelumnya yaitu Tepok Nyamuk. Karena kata beberapa teman, Tepok Nyamuk cukup keren akhirnya saya rilis versi *sadis*nya *Mosquito mus Die*.
 
-![device-2014-12-05-184805](http://hangga.github.io/blog/wp-content/uploads/2014/12/device-2014-12-05-184805-576x1024.png)
+![device-2014-12-05-184805](http://hangga.github.io/blog1/wp-content/uploads/2014/12/device-2014-12-05-184805-576x1024.png)
 
 ## Terinspirasi dari *raket nyamuk*
 
 Terinspirasi dari *raket nyamuk* listrik dirumah. Yah.. raket nyamuk *ciaaat… bletak… bletak…* akhirnya kepikiran utuk membuat game. Akhirya jadilah game bertema tentang nyamuk “[Tepok Nyamuk](https://play.google.com/store/apps/details?id=com.qiya.nyamuk "Tepok Nyamuk")“.
 
-![device-2014-12-03-203321](http://hangga.github.io/blog/wp-content/uploads/2014/12/device-2014-12-03-203321.png)
+![device-2014-12-03-203321](http://hangga.github.io/blog1/wp-content/uploads/2014/12/device-2014-12-03-203321.png)
 
 ## Spesifikasi:
 
@@ -44,12 +44,12 @@ Cara main game ini cukup simpel, yaitu tinggal tonyok aja tu nyamuk yg terbang d
 
 Berikur skrinsutnya..
 
-![device-2014-12-05-184829](http://hangga.github.io/blog/wp-content/uploads/2014/12/device-2014-12-05-184829-576x1024.png)
+![device-2014-12-05-184829](http://hangga.github.io/blog1/wp-content/uploads/2014/12/device-2014-12-05-184829-576x1024.png)
 
-![device-2014-12-05-18482asas](http://hangga.github.io/blog/wp-content/uploads/2014/12/device-2014-12-05-18482asas-576x1024.png)
+![device-2014-12-05-18482asas](http://hangga.github.io/blog1/wp-content/uploads/2014/12/device-2014-12-05-18482asas-576x1024.png)
 
 ## Download link
 
 Silahkan coba main jika anda penasaran.
 
-[![playstore](http://hangga.github.io/blog/wp-content/uploads/2014/02/playstore-300x98.png)](https://play.google.com/store/apps/details?id=com.qiya.mosquitomustdie)
+[![playstore](http://hangga.github.io/blog1/wp-content/uploads/2014/02/playstore-300x98.png)](https://play.google.com/store/apps/details?id=com.qiya.mosquitomustdie)

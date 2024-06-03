@@ -496,7 +496,7 @@ for date in sample_inputs:
 
 Walhamdulillah, outputnya sesuai dengan yang diharapkan.
 
-![](https://hangga.github.io/blog/wp-content/uploads/2024/01/Screenshot_2024-01-25_14-29-01-300x252.png)
+![](https://hangga.github.io/blog1/wp-content/uploads/2024/01/Screenshot_2024-01-25_14-29-01-300x252.png)
 
 Nah, begitu saja manteman.
 

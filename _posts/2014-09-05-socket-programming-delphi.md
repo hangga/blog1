@@ -25,24 +25,24 @@ Persiapan, *Install* ***Borland Socket Components***.
 
 1\. Pilih menu *Component -&gt; Install Packages*
 
-![2014-09-06_040711](http://hangga.github.io/blog/wp-content/uploads/2014/09/2014-09-06_040711.png)
+![2014-09-06_040711](http://hangga.github.io/blog1/wp-content/uploads/2014/09/2014-09-06_040711.png)
 
 2\. Klik tombol *Add* jika *Borland Socket Components* belum ada.
 
-![2014-09-06_040814](http://hangga.github.io/blog/wp-content/uploads/2014/09/2014-09-06_040814.png)
+![2014-09-06_040814](http://hangga.github.io/blog1/wp-content/uploads/2014/09/2014-09-06_040814.png)
 
 3\. Kita bisa mengambil file *dclsockets70.bpl* yang ada di direktori ***..\\Program Files\\Borland\\Delphi7\\Bin\\***
 
-![2014-09-06_041005](http://hangga.github.io/blog/wp-content/uploads/2014/09/2014-09-06_041005.png)
+![2014-09-06_041005](http://hangga.github.io/blog1/wp-content/uploads/2014/09/2014-09-06_041005.png)
 
 Nah, sekarang sudah ada *Borland Socket Components.*
 
-![2014-09-06_041040](http://hangga.github.io/blog/wp-content/uploads/2014/09/2014-09-06_041040.png)
+![2014-09-06_041040](http://hangga.github.io/blog1/wp-content/uploads/2014/09/2014-09-06_041040.png)
 
-![2014-09-06_041115](http://hangga.github.io/blog/wp-content/uploads/2014/09/2014-09-06_041115.png)
+![2014-09-06_041115](http://hangga.github.io/blog1/wp-content/uploads/2014/09/2014-09-06_041115.png)
 
 Jika installasi berhasil, maka komponen *socket* akan berada di tab *Internet* pada *component pallete*.
 
-![2014-09-06_041300](http://hangga.github.io/blog/wp-content/uploads/2014/09/2014-09-06_041300-1024x47.png)
+![2014-09-06_041300](http://hangga.github.io/blog1/wp-content/uploads/2014/09/2014-09-06_041300-1024x47.png)
 
 Sekian dulu. Tunggu lanjutannya di Part 2 yah..

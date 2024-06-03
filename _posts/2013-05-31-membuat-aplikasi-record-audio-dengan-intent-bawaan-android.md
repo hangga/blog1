@@ -121,5 +121,5 @@ Toast.makeText(MainActivity.this,"Saved: " + savedUri.getPath(), Toast.LENGTH_LO
 }
 ```
 
-6\. Hasilnya.[![device-2013-05-30-225910](http://hangga.github.io/blog/wp-content/uploads/2013/05/device-2013-05-30-225910.png)](http://hangga.github.io/blog/wp-content/uploads/2013/05/device-2013-05-30-225910.png)  
-[![device-2013-05-30-060228](http://hangga.github.io/blog/wp-content/uploads/2013/05/device-2013-05-30-060228.png)](http://hangga.github.io/blog/wp-content/uploads/2013/05/device-2013-05-30-060228.png)
+6\. Hasilnya.[![device-2013-05-30-225910](http://hangga.github.io/blog1/wp-content/uploads/2013/05/device-2013-05-30-225910.png)](http://hangga.github.io/blog1/wp-content/uploads/2013/05/device-2013-05-30-225910.png)  
+[![device-2013-05-30-060228](http://hangga.github.io/blog1/wp-content/uploads/2013/05/device-2013-05-30-060228.png)](http://hangga.github.io/blog1/wp-content/uploads/2013/05/device-2013-05-30-060228.png)

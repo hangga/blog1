@@ -23,7 +23,7 @@ Terkadang kita sudah beramal dengan ikhlash, akan tetapi karena godaan syaitan, 
 
 Terkadang kita sudah berusaha menyembunyikan amal yg kita lakukan, akan tetapi syaitan menggoda melalui pertanyaan dari saudara kita.
 
-![download-edited](http://hangga.github.io/blog/wp-content/uploads/2016/02/download-edited.png)
+![download-edited](http://hangga.github.io/blog1/wp-content/uploads/2016/02/download-edited.png)
 
 Menjawab pertanyaan seperti *screenshot* diatas hanya akan merontokkan keikhlasan amal yg pernah kita lakukan. Terlebih jika kita tidak merasa seperti apa yg saudara kita pikirkan.
 

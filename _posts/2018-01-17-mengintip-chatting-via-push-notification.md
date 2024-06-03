@@ -25,17 +25,17 @@ Nah, terlepas dari semua bahasan yang *njelehi* tersebut, mari kita mbahas ini s
 
 Namun perlu diketahui bahwa dalam hal ini ada dua kemungkinan, bisa berhasil bisa juga tidak. Bisa berhasil jika pemilik *device* meng-*enable* setelan *notification settings*. Jika tidak, yasudah anda tidak dapat pamer ke calon mertua. Yang jelas tak se-*keren* aksi *hacker* di filem-filem. *He3x..*
 
-![](https://hangga.github.io/blog/wp-content/uploads/2018/01/4-hacker-paling-berbahaya-di-dunia-nomor-3-mampu-jebol-pertahanan-nasa-ODh3g0SCLQ-700x367.jpg)sumber: https://img.okezone.com
+![](https://hangga.github.io/blog1/wp-content/uploads/2018/01/4-hacker-paling-berbahaya-di-dunia-nomor-3-mampu-jebol-pertahanan-nasa-ODh3g0SCLQ-700x367.jpg)sumber: https://img.okezone.com
 
 *Push Notification* adalah sebuah notifikasi atau pemberitahuan instan yang di *push* langsung dari *server/back end* ke antarmuka pengguna aplikasi (desktop/mobile).
 
-![](https://hangga.github.io/blog/wp-content/uploads/2018/01/push-notifications-network-diagram-700x395.png)
+![](https://hangga.github.io/blog1/wp-content/uploads/2018/01/push-notifications-network-diagram-700x395.png)
 
 Skema alur Push Notification, Sumber : https://docs.pivotal.io/push/1-9/assets/push-notifications-network-diagram.png
 
 Notifikasi biasanya memiliki *title* berisi judul notifikasi, *package name* berisi nama *package* aplikasi penerima notifikasi, dan *text* yang berisi pesan isi notifikasi. Nah ketiga *property* inilah yang akan kita ambil informasinya.
 
-![](https://hangga.github.io/blog/wp-content/uploads/2018/01/push-notification-1-contoh.png)
+![](https://hangga.github.io/blog1/wp-content/uploads/2018/01/push-notification-1-contoh.png)
 
 Contoh Push Notification dari sisi antar muka pengguna pada aplikasi mobile.
 ## Skenario penyadapan
@@ -46,7 +46,7 @@ Sebelum melakukan penyadapan, eh pengintipan ding, persiapkanlah rencana dengan 
 2. **Gunakan *icon* yang menarik dan tidak mencurigakan**. Ini penting, agar user tidak curiga akan niat busuk Anda. Ha3x..
 3. **Paksa user untuk mengaktifkan** ***notification access**.* Ini hukumnya wajib. Pokoknya bagaimana caranya, user harus mengaktifkan *permission* ini.
 
-![](https://hangga.github.io/blog/wp-content/uploads/2018/01/settings-700-700x949.png)
+![](https://hangga.github.io/blog1/wp-content/uploads/2018/01/settings-700-700x949.png)
 
 ## *Script* penyadap  
 
@@ -198,11 +198,11 @@ Stop Service :
 LocalBroadcastManager.getInstance(MainActivity.this).unregisterReceiver(onNotice);
 ```
 
-![](https://hangga.github.io/blog/wp-content/uploads/2018/01/WhatsApp-Image-2017-10-30-at-16.41.49.jpeg)
+![](https://hangga.github.io/blog1/wp-content/uploads/2018/01/WhatsApp-Image-2017-10-30-at-16.41.49.jpeg)
 
 *Log* pada *IDE Android Studio*
 
-![](https://hangga.github.io/blog/wp-content/uploads/2018/01/WhatsApp-Image-2017-10-30-at-16.39.14-700x1244.jpeg)
+![](https://hangga.github.io/blog1/wp-content/uploads/2018/01/WhatsApp-Image-2017-10-30-at-16.39.14-700x1244.jpeg)
 
 Contoh tampilan aplikasi *WaSpy*
 

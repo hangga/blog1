@@ -183,6 +183,6 @@ Simulasi updating jumlah notifikasi
     }
 ```
 
-![device-2015-12-08-195216](http://hangga.github.io/blog/wp-content/uploads/2015/12/device-2015-12-08-195216-510x808.png)
+![device-2015-12-08-195216](http://hangga.github.io/blog1/wp-content/uploads/2015/12/device-2015-12-08-195216-510x808.png)
 
-\[dl url=”http://hangga.github.io/blog/wp-content/uploads/2015/12/DynamicNotifInflate.7z” title=”Download Source Lengkap” desc=”by : Hangga Aji Sayekti”\]
+\[dl url=”http://hangga.github.io/blog1/wp-content/uploads/2015/12/DynamicNotifInflate.7z” title=”Download Source Lengkap” desc=”by : Hangga Aji Sayekti”\]

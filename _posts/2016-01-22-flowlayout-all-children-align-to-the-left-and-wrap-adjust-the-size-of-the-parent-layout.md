@@ -30,7 +30,7 @@ Lebih jelasnya seperti gambar dibawah.
 
 ### Screenshot
 
-![device-2016-01-21-194050](http://hangga.github.io/blog/wp-content/uploads/2016/01/device-2016-01-21-194050-510x808.png)
+![device-2016-01-21-194050](http://hangga.github.io/blog1/wp-content/uploads/2016/01/device-2016-01-21-194050-510x808.png)
 
 ### Membuat kelas FlowLayout
 

@@ -19,8 +19,8 @@ tags:
     - 'sistem informasi rekam medis'
 ---
 
-[![2014-09-04_053304](http://hangga.github.io/blog/wp-content/uploads/2014/09/2014-09-04_053304-449x304.png)](http://hangga.github.io/blog/wp-content/uploads/2014/09/2014-09-04_053304.png)
+[![2014-09-04_053304](http://hangga.github.io/blog1/wp-content/uploads/2014/09/2014-09-04_053304-449x304.png)](http://hangga.github.io/blog1/wp-content/uploads/2014/09/2014-09-04_053304.png)
 
-[![2014-09-04_053216](http://hangga.github.io/blog/wp-content/uploads/2014/09/2014-09-04_053216.png)](http://hangga.github.io/blog/wp-content/uploads/2014/09/2014-09-04_053216.png)
+[![2014-09-04_053216](http://hangga.github.io/blog1/wp-content/uploads/2014/09/2014-09-04_053216.png)](http://hangga.github.io/blog1/wp-content/uploads/2014/09/2014-09-04_053216.png)
 
-[![2014-09-04_053236](http://hangga.github.io/blog/wp-content/uploads/2014/09/2014-09-04_053236-1024x545.png)](http://hangga.github.io/blog/wp-content/uploads/2014/09/2014-09-04_053236.png)
+[![2014-09-04_053236](http://hangga.github.io/blog1/wp-content/uploads/2014/09/2014-09-04_053236-1024x545.png)](http://hangga.github.io/blog1/wp-content/uploads/2014/09/2014-09-04_053236.png)

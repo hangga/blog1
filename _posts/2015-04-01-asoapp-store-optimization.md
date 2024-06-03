@@ -31,7 +31,7 @@ Karena ini adalah salah satu cara yang disarankan oleh google(khususnya Android)
 
 Sedangkan menurut pendapat kissmetric, 63% user menemukan aplikasi kita melalui browsing via appstore. Nah, pada poin inilah peranan ASO cukup besar.
 
-[![LearnAboutApps-1](http://hangga.github.io/blog/wp-content/uploads/2015/04/LearnAboutApps-1.png)](http://hangga.github.io/blog/wp-content/uploads/2015/04/LearnAboutApps-1.png)
+[![LearnAboutApps-1](http://hangga.github.io/blog1/wp-content/uploads/2015/04/LearnAboutApps-1.png)](http://hangga.github.io/blog1/wp-content/uploads/2015/04/LearnAboutApps-1.png)
 
 ### Tips
 

@@ -21,7 +21,7 @@ tags:
 
 Di Android, kita juga dapat membuat alert dialog yang bentuknya seperti pada gambar diatas. Yuk, langsung menuju TKP.
 
-![custom-dialog](http://hangga.github.io/blog/wp-content/uploads/2013/05/custom-dialog.png)
+![custom-dialog](http://hangga.github.io/blog1/wp-content/uploads/2013/05/custom-dialog.png)
 
 ```
 import android.app.AlertDialog;

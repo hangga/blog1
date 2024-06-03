@@ -35,7 +35,7 @@ Dalam kasus ini, sy menggunakan IDE faforit sy yaitu Intellij IDEA Community Edi
 
 Ketika project di `Run` dari IDE berjalan dengan lancar. Namun ketika di build menjadi `app.jar`, kemudian dijalankan, terjadi `error` kurang lebih semacam ini:
 
-![](http://hangga.github.io/blog/wp-content/uploads/2020/08/err.png)
+![](http://hangga.github.io/blog1/wp-content/uploads/2020/08/err.png)
 
 # Mengapa terjadi?
 
@@ -45,7 +45,7 @@ Namun ketika project sudah di build menjadi `app.jar`, `working directory`-nya b
 
 Saya terbiasa mengatur *app* direktori seperti ini.
 
-![](http://hangga.github.io/blog/wp-content/uploads/2020/08/data-edit.png)
+![](http://hangga.github.io/blog1/wp-content/uploads/2020/08/data-edit.png)
 
 # Bagaimana Triknya.. 🤓
 

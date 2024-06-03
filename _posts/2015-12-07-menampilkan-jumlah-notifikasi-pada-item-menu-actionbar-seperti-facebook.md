@@ -195,9 +195,9 @@ fab.setOnClickListener(new View.OnClickListener() {
 });
 ```
 
-![device-2015-12-07-163515](http://hangga.github.io/blog/wp-content/uploads/2015/12/device-2015-12-07-163515-510x731.png)
+![device-2015-12-07-163515](http://hangga.github.io/blog1/wp-content/uploads/2015/12/device-2015-12-07-163515-510x731.png)
 
-\[dl url=”http://hangga.github.io/blog/wp-content/uploads/2015/12/DynamicNotification.7z” title=”Download Source Lengkap” desc=”by : Hangga Aji Sayekti”\]
+\[dl url=”http://hangga.github.io/blog1/wp-content/uploads/2015/12/DynamicNotification.7z” title=”Download Source Lengkap” desc=”by : Hangga Aji Sayekti”\]
 
 **Referensi:**
 

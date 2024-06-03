@@ -19,7 +19,7 @@ tags:
     - 'merapikan javascript'
 ---
 
-[![](http://hangga.github.io/blog/wp-content/uploads/2012/04/JavaScript-Web-300x225.jpg "JavaScript-Web")](http://hangga.github.io/blog/wp-content/uploads/2012/04/JavaScript-Web.jpg)Mungkin teman2 pernah mengalami apa yg sy alami. Ketika kita mendevelop sebuah aplikasi berbasis web dimana kita harus menggunakan berbagai macam *library jquery* untuk mempercantik dan menambah interaktifitas *user interface*. Tetapi bukannya tambah cantik tapi malah terjadi *crash.* Nah terpaksa kita harus membongkar *script* satu persatu, baris demi baris untuk mencari penyebab *crash*.
+[![](http://hangga.github.io/blog1/wp-content/uploads/2012/04/JavaScript-Web-300x225.jpg "JavaScript-Web")](http://hangga.github.io/blog1/wp-content/uploads/2012/04/JavaScript-Web.jpg)Mungkin teman2 pernah mengalami apa yg sy alami. Ketika kita mendevelop sebuah aplikasi berbasis web dimana kita harus menggunakan berbagai macam *library jquery* untuk mempercantik dan menambah interaktifitas *user interface*. Tetapi bukannya tambah cantik tapi malah terjadi *crash.* Nah terpaksa kita harus membongkar *script* satu persatu, baris demi baris untuk mencari penyebab *crash*.
 
 Alangkah sialnya ketika kita membuka file .js yg berisi script seperti ini
 
@@ -48,6 +48,6 @@ Silahkan buka <http://jsbeautifier.org/>
 
 *Copy script* Anda, lalu *paste.* Kemudian klik tombol \[***Beautify JavaScript and HTML\]*** di atas.
 
-[![](http://hangga.github.io/blog/wp-content/uploads/2012/04/2012-04-03_133745-1024x500.png "2012-04-03_133745")](http://hangga.github.io/blog/wp-content/uploads/2012/04/2012-04-03_133745.png)
+[![](http://hangga.github.io/blog1/wp-content/uploads/2012/04/2012-04-03_133745-1024x500.png "2012-04-03_133745")](http://hangga.github.io/blog1/wp-content/uploads/2012/04/2012-04-03_133745.png)
 
 Selesailah sudah, sekarang *script* Anda sudah rapi..

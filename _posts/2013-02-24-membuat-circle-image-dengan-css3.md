@@ -18,7 +18,7 @@ tags:
 ---
 
 <style><!--
-.circular {  margin:auto;  width: 199px;  height: 199px;  border-radius: 150px;  -webkit-border-radius: 150px;  -moz-border-radius: 150px;  box-shadow: 5px 5px 10px #000000; background: url(http://hangga.github.io/blog/wp-content/uploads/2014/02/101120123227.png) no-repeat; }
+.circular {  margin:auto;  width: 199px;  height: 199px;  border-radius: 150px;  -webkit-border-radius: 150px;  -moz-border-radius: 150px;  box-shadow: 5px 5px 10px #000000; background: url(http://hangga.github.io/blog1/wp-content/uploads/2014/02/101120123227.png) no-repeat; }
 --></style></head><body><div class="circular"></div>1\. Langkah pertama, sisipkan style seperti contoh berikut ini :
 
 ```
@@ -29,11 +29,11 @@ border-radius: 150px;
 -webkit-border-radius: 150px;  
 -moz-border-radius: 150px;  
 box-shadow: 5px 5px 10px #000000; 
-background: url(http://hangga.github.io/blog/wp-content/uploads/2014/02/101120123227.png) no-repeat; }
+background: url(http://hangga.github.io/blog1/wp-content/uploads/2014/02/101120123227.png) no-repeat; }
 ```
 
 Dalam contoh diatas, saya membuat kelas bernama ***circular***.  
-Kemudian, pilih baground Image Anda, misalnya : background: url(http://hangga.github.io/blog/wp-content/uploads/2014/02/101120123227.png.
+Kemudian, pilih baground Image Anda, misalnya : background: url(http://hangga.github.io/blog1/wp-content/uploads/2014/02/101120123227.png.
 
 2\. **Buat area div** dengan nama kelas ***circular*** (sesuai dg nama kelas yg anda buat si style)
 

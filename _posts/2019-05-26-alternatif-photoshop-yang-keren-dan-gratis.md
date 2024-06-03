@@ -29,18 +29,18 @@ Yah, tampilan *Freephototool* ini memang mirip *Photoshop*. Bahkan beberapa menu
 
 > …bagi anda yang pernah terjerumus kedalam kubangan lembah software bajakan yang penuh dosa, ini bak secercah hidayah menuju ke jalan yang benar…
 
-![](http://hangga.github.io/blog/wp-content/uploads/2019/05/tampilan-1.png)
+![](http://hangga.github.io/blog1/wp-content/uploads/2019/05/tampilan-1.png)
 
 **2. *Support file* yang banyak.**  
 Anda bisa meng*export* hasil pekerjaan anda ke beberapa jenis file seperti *PNG, JPEG, ICO* dan lain-lain. Namun yang menurut saya sangat keren adalah anda bisa menyimpan hasil pekerjaan anda dalam format *file PSD*.
 
-![](http://hangga.github.io/blog/wp-content/uploads/2019/05/file-support-banyak.png)
+![](http://hangga.github.io/blog1/wp-content/uploads/2019/05/file-support-banyak.png)
 
 **3. Tersedia banyak *Template*.**
 
 Ini juga sangat membantu bagi saya. Tak perlu susah-susah mencari ide karena sudah disediakan, tinggal *edit* saja.
 
-![](http://hangga.github.io/blog/wp-content/uploads/2019/05/banyak-template.png)
+![](http://hangga.github.io/blog1/wp-content/uploads/2019/05/banyak-template.png)
 
 **3. Ramah Kantong.**  
 Diantara kelebihan *freephototool* yang menurut saya paling keren adalah, ramah kantong dan tak cepat bikin bolong.  
@@ -61,6 +61,6 @@ Kesimpulan dari *review* ini, yah kalo sekedar untuk disain pasif, yang bisanya 
 
 Berikut contoh hasil disain abal-abal dengan *freephototool.* Yah, untuk sekelas disainer dadakan abal-abal sih sudah lumayan.
 
-![](http://hangga.github.io/blog/wp-content/uploads/2019/05/Selamat-Iedul-Fitri-1440H-700x454.png) ![](http://hangga.github.io/blog/wp-content/uploads/2019/05/Selamat-Iedul-Fitri-1440H1-700x454.png)
+![](http://hangga.github.io/blog1/wp-content/uploads/2019/05/Selamat-Iedul-Fitri-1440H-700x454.png) ![](http://hangga.github.io/blog1/wp-content/uploads/2019/05/Selamat-Iedul-Fitri-1440H1-700x454.png)
 
-![](http://hangga.github.io/blog/wp-content/uploads/2019/05/Undangan-2019-wa-700x998.png)
+![](http://hangga.github.io/blog1/wp-content/uploads/2019/05/Undangan-2019-wa-700x998.png)
