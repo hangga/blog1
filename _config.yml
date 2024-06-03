@@ -2,14 +2,14 @@
 title: Hangga Aji Sayekti
 SEOTitle: Hangga Aji Sayekti's Blog
 description: A passionate Software Engineer from Indonesia with experience since 2008. Has a bachelor's degree in Mathematics and loves Science and Computers. .
-keyword: "jekyll, theme, blog, blog theme"
+keyword: "Hangga Aji Sayekti's Blog"
 url: "https://hangga.github.io"      # your host, for absolute URL
 baseurl: "/blog1"                                         # for example, '/blog' if your blog hosted on 'host/blog'
-avatar: "img/header-avatar.jpeg"                    # the avatar showing on the homepage
+avatar: "/img/unnamed.jpg"                    # the avatar showing on the homepage
 
 
 # GitHub repository (if the site is hosted by GitHub)
-repository: Renovamen/jekyll-theme-gungnir
+repository: hangga/blog1
 repository_branch: main
 
 
@@ -17,7 +17,7 @@ repository_branch: main
 theme_style:
   highlight:    # "dark" (default), "light"
   alert:        # "flat" (default), "modern"
-  post_preview: # "image" (default), "text"
+  post_preview: text # "image" (default), "text"
                 # display post's featured image on homepage or not
 
 
@@ -55,7 +55,7 @@ collections:
 sns:
   RSS: true
   github_username: hangga
-  weibo_username:
+  # weibo_username:
   # zhihu_username: chao-neng-gui-su
   # twitter_username: renovamen_zxh
   # facebook_username: renovamen.zou
