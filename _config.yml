@@ -100,9 +100,9 @@ kramdown:
 
 # Navigation menu settings
 menus:
-  - title: Home
-    font: fab fa-fort-awesome
-    url: /https://hangga.github.io/
+  # - title: Home
+  #   font: fab fa-fort-awesome
+  #   url: /https://hangga.github.io/
   - title: Blog
     font: fab fa-fort-awesome
     url: /
