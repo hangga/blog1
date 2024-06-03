@@ -102,10 +102,10 @@ kramdown:
 menus:
   - title: Home
     font: fab fa-fort-awesome
-    url: https://hangga.github.io/
+    url: /https://hangga.github.io/
   - title: Blog
     font: fab fa-fort-awesome
-    url: /blog1
+    url: /
   # - title: About
   #   font: fas fa-paw
   #   submenus:
